@@ -2,5 +2,10 @@
   "code-runner.executorMap": {
     "typescript": "npx ts-node --files --transpile-only",
   },
-  "cSpell.language": "en,pt,en-GB,en-US"
+  "cSpell.language": "en,pt,en-GB,en-US",
+  "cSpell.words": [
+    "da",
+    "nome",
+    "variavel"
+  ]
 }
